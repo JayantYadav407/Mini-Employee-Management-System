@@ -2,3 +2,5 @@ Deplopment
 Testing
 Design
 Human Resources
+Finance
+Human Resources
